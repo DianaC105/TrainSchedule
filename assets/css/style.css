@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://i.imgur.com/0CU3rjL.jpg");
+    background-blend-mode: hard-light;
+    color:black;
+    border-color: black;
+    text-align: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 55;
+    
+}
+
+h1, h3{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+form {
+    width: 85%;
+    align-content: center;
+    margin-left: 45px;
+
+}   
+
+input {
+    background-color: burlywood;
+}
+th{
+    font-size: 15px;
+    font-display: bold;
+}
+
+.col-md-12{
+    opacity: .75;
+
+}
+modal-content{
+    background-color:434e5a;
+    opacity: .8;
+}
+
+.jumbotron{
+    opacity: .65;
+    display: auto;
+    justify-content:center;
+    align-items: center;
+    color: black;
+    margin-bottom: 50px;
+
+}
+.btn-primary{
+    color: white;
+    background-color:#41758e;
+    margin:1px;
+    
+}
+
+label{
+    color:black;
+    font-family: 'Ubuntu', sans-serif;
+}
